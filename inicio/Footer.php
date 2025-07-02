@@ -168,8 +168,8 @@
               <h5 class="gs text-uppercase">Tu espacio en City Place</h5>
             </header>
             <ul>
-              <li><a href="signin.php" target="_blank">Oficinas Disponibles</a></li>
-              <li><a href="locales.php" target="_blank">Locales Comerciales Disponibles</a></li>
+              <li><a href="https://oficina.cityplacecr.com/contacto/oficinas" target="_blank">Oficinas Disponibles</a></li>
+              <li><a href="https://oficina.cityplacecr.com/contacto/locales" target="_blank">Locales Comerciales Disponibles</a></li>
               <li><a href="login.php" target="_blank">Portal de Inquilinos</a></li>
 
             </ul>
@@ -240,8 +240,8 @@
             <li class="site-collapse-menu-item text-left text-uppercase">
               <a class="site-collapse-menu__level-0" href="#mm-2">Tu espacio en City Place</a>
               <ul class="collapse" id="mm-2">
-                <li><a href="signin.php" target="_blank">Oficinas Disponibles</a></li>
-                <li><a href="locales.php" target="_blank">Locales Comerciales Disponibles</a></li>
+                <li><a href="https://oficina.cityplacecr.com/contacto/oficinas" target="_blank">Oficinas Disponibles</a></li>
+                <li><a href="https://oficina.cityplacecr.com/contacto/locales" target="_blank">Locales Comerciales Disponibles</a></li>
                 <li><a href="login.php" target="_blank">Portal de Inquilinos</a></li>
 
               </ul>

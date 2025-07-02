@@ -198,7 +198,7 @@ CORREO:info@cityplacecr.com<br><br>
      
                 
           <div class="sg-mb-10px coach-service-Content">
-          <a href="signin.php" class="btn btn-primary-transparent btn-primary-transparent--diap-sm text-uppercase visible-xs " style="color: black; border-color: black;">
+          <a href="https://oficina.cityplacecr.com/contacto/oficinas" class="btn btn-primary-transparent btn-primary-transparent--diap-sm text-uppercase visible-xs " style="color: black; border-color: black;">
                       Aquí
                     </a>
       
@@ -213,7 +213,7 @@ CORREO:info@cityplacecr.com<br><br>
      
                 
           <div class="sg-mb-10px coach-service-Content">
-          <a href="locales.php" class="btn btn-primary-transparent btn-primary-transparent--diap-sm text-uppercase visible-xs " style="color: black; border-color: black;">
+          <a href="https://oficina.cityplacecr.com/contacto/locales" class="btn btn-primary-transparent btn-primary-transparent--diap-sm text-uppercase visible-xs " style="color: black; border-color: black;">
                       Aquí
                     </a>
             

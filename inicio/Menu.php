@@ -231,7 +231,7 @@
           </div>
           <div class="row margin-xs">
             <div class="col-xs-24">
-              <a href="locales.php" class="btn btn-default btn-block" style="background-color:black;color:white">Locales comerciales disponibles</a>
+              <a href="https://oficina.cityplacecr.com/contacto/locales" class="btn btn-default btn-block" style="background-color:black;color:white">Locales comerciales disponibles</a>
             </div>
           </div>
         </div>
@@ -405,7 +405,7 @@
           </div>
           <div class="row margin-xs">
             <div class="col-xs-24">
-              <a href="locales.php" class="btn btn-default btn-block" style="background-color:black;color:white">Locales comerciales disponibles</a>
+              <a href="https://oficina.cityplacecr.com/contacto/locales" class="btn btn-default btn-block" style="background-color:black;color:white">Locales comerciales disponibles</a>
             </div>
           </div>
         </div>
@@ -424,6 +424,7 @@
                   <li><a href="OpticasVision.php">Opticas Visión</a></li>
                   <li><a href="dentalgabrielacastro.php">Dental Gabriela Castro</a></li>
                   <li><a href="506Fitness.php">506 Fitness</a></li>
+                  <li><a href="macrobioticaNaturalPlanet.php">Macrobiotica Natural Planet</a></li>
                 </ul>
               </div>
               <div class="col-md-9 col-height hidden-sm hidden-xs">
@@ -443,7 +444,7 @@
           </div>
           <div class="row margin-xs">
             <div class="col-xs-24">
-              <a href="locales.php" class="btn btn-default btn-block" style="background-color:black;color:white">Locales comerciales disponibles </a>
+              <a href="https://oficina.cityplacecr.com/contacto/locales" class="btn btn-default btn-block" style="background-color:black;color:white">Locales comerciales disponibles </a>
             </div>
           </div>
         </div>

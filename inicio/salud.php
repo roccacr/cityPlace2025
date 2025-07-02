@@ -236,6 +236,35 @@
             </div>
           </div>
 
+          <div class="block block-border-left col-md-12 col-sm-12 block-white" data-block>
+            <div class="block-bottom sg-mb-40px blockStayText">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-sm-22 col-sm-offset-1 text-white">
+                    <div class="visible-xs">
+                      <h1 class="sg-mb-10px">Macrobiotica Natural Planet</h1>
+                    </div>
+                    <div class="hidden-xs">
+                      <h2 class="sg-mb-10px">Macrobiotica Natural Planet</h2>
+                      <p class="text-white sg-mb-20px hidden-xs">
+                      ¡Siente la diferencia y transforma tu salud de forma natural!
+                      </p>
+                    </div>
+                    <a href="macrobioticaNaturalPlanet.php"  class="stayExploreMoreCTA btn btn-default-transparent btn-block-sm text-uppercase margin-right-xs-px">
+                      MÁS INFORMACIÓN
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="block-gradient"></div>
+            <div class="block-visuals">
+              <figure class="block-cover-img">
+                <div data-bgset="images/NUEVOS/macrobiotica/externa.png" class="bg-image lazyload" data-alt="Macrobiotica Natural Planet"></div>
+              </figure>
+            </div>
+          </div>
+
        
         </div>
         <div class="block-padding" data-block-height data-xs="2" data-sm="1" data-md="1" data-lg="1"></div>
