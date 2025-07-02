@@ -186,19 +186,19 @@
 
                                 <div class="slick-slide">
                                     <figure class="block-cover-img">
-                                        <div data-bgset="./images/NUEVOS/macrobiotica/2.png" class="bg-image lazyload" data-alt="Macrobiotica Natural Planet"></div>
+                                        <div data-bgset="./images/NUEVOS/macrobiotica/2.jpg" class="bg-image lazyload" data-alt="Macrobiotica Natural Planet"></div>
                                     </figure>
                                 </div>
 
                                 <div class="slick-slide">
                                     <figure class="block-cover-img">
-                                        <div data-bgset="./images/NUEVOS/macrobiotica/3.png" class="bg-image lazyload" data-alt="Macrobiotica Natural Planet"></div>
+                                        <div data-bgset="./images/NUEVOS/macrobiotica/3.jpg" class="bg-image lazyload" data-alt="Macrobiotica Natural Planet"></div>
                                     </figure>
                                 </div>
 
                                 <div class="slick-slide">
                                     <figure class="block-cover-img">
-                                        <div data-bgset="./images/NUEVOS/macrobiotica/4.png" class="bg-image lazyload" data-alt="Macrobiotica Natural Planet"></div>
+                                        <div data-bgset="./images/NUEVOS/macrobiotica/4.jpg" class="bg-image lazyload" data-alt="Macrobiotica Natural Planet"></div>
                                     </figure>
                                 </div>
 
