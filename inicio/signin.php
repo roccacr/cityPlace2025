@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,8 +5,10 @@
   <!-- Basic Page Needs
   ================================================== -->
   <meta charset="utf-8">
+  <script>
+    window.location.href = 'https://oficina.cityplacecr.com/contacto/oficinas';
+    </script>
   <title>City Place, Compras, Restaurantes, Qué hacer en Santa Ana,  Entretenimiento, Cafés, Hoteles, Días festivos, Eventos y ofertas</title>
-
   <!-- Mobile Specific Metas
   ================================================== -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -45,6 +45,8 @@
 
   gtag('config', 'AW-10951964473');
 </script>
+
+
 
 
 <style>
@@ -199,4 +201,6 @@ Toast.fire({
     // 👇️ Reset form here
     form.reset();
   });
+
+  
 </script>

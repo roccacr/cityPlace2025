@@ -7,6 +7,9 @@
   <!-- Basic Page Needs
   ================================================== -->
   <meta charset="utf-8">
+  <script>
+    window.location.href = 'https://oficina.cityplacecr.com/contacto/locales';
+    </script>
   <title>City Place, Compras, Restaurantes, Qué hacer en Santa Ana,  Entretenimiento, Cafés, Hoteles, Días festivos, Eventos y ofertas</title>
 
   <!-- Mobile Specific Metas
