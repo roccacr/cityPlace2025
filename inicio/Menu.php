@@ -289,14 +289,16 @@
                 <h5 class="gs text-uppercase" style="margin-bottom: 20px !important;">Anuncio</h5>
 
 
-                <a class="mega-menu__shop-spotlight" href="shop/two-at-symphony.html" title="Two Cafe / Made By Two">
+                <a class="mega-menu__shop-spotlight" href="https://oficina.cityplacecr.com/contacto/locales" title="Locales Disponibles">
                   <figure>
-                    <div class="site-mega__img bg-image lazyload visible-xs-block" data-bgset="images/events/TSMENUAGOSOT.png" style="height:226px!important;" data-alt="Two Cafe / Made By Two"></div>
-                    <div class="site-mega__img bg-image lazyload visible-sm-block" data-bgset="images/events/TSMENUAGOSOT.png" style="height:226px!important;" data-alt="Two Cafe / Made By Two"></div>
-                    <div class="site-mega__img bg-image lazyload visible-md-block" data-bgset="images/events/TSMENUAGOSOT.png" style="height:226px!important;" data-alt="Two Cafe / Made By Two"></div>
-                    <div class="site-mega__img bg-image lazyload visible-lg-block" data-bgset="images/events/TSMENUAGOSOT.png" style="height:226px!important;" data-alt="Two Cafe / Made By Two"></div>
+                    <div class="site-mega__img bg-image lazyload visible-xs-block" data-bgset="images/NUEVOS/bannerLocales.png" style="height:208px!important;" data-alt="Locales Disponibles"></div>
+                    <div class="site-mega__img bg-image lazyload visible-sm-block" data-bgset="images/NUEVOS/bannerLocales.png" style="height:208px!important;" data-alt="Locales Disponibles"></div>
+                    <div class="site-mega__img bg-image lazyload visible-md-block" data-bgset="images/NUEVOS/bannerLocales.png" style="height:208px!important;" data-alt="Locales Disponibles"></div>
+                    <div class="site-mega__img bg-image lazyload visible-lg-block" data-bgset="images/NUEVOS/bannerLocales.png" style="height:208px!important;" data-alt="Locales Disponibles"></div>
                   </figure>
                 </a>
+                <p class="btn btn-link" style="text-align: justify;">Contáctanos para recibir más información sobre<br>nuestros locales disponibles</p>
+                <a class="btn btn-link" href="https://oficina.cityplacecr.com/contacto/locales" style="font-weight: 800 !important;">MÁS INFORMACIÓN</a>
 
 
               </div>
@@ -304,7 +306,7 @@
           </div>
           <div class="row margin-xs">
             <div class="col-xs-24">
-              <a href="locales.php" class="btn btn-default btn-block" style="background-color:black;color:white">Locales comerciales disponibles</a>
+              <a href="https://oficina.cityplacecr.com/contacto/locales" class="btn btn-default btn-block" style="background-color:black;color:white">Locales comerciales disponibles</a>
             </div>
           </div>
         </div>
@@ -473,7 +475,7 @@
               </div>
               <div class="col-md-9 col-height hidden-sm hidden-xs">
                 <h5 class="gs text-uppercase" style="margin-bottom: 20px !important;">Anuncio</h5>
-                <a class="mega-menu__shop-spotlight" href="signin.php" title="Oficinas Disponibles City Place">
+                <a class="mega-menu__shop-spotlight" href="https://oficina.cityplacecr.com/contacto/oficinas" title="Oficinas Disponibles City Place">
                   <figure>
                     <div class="site-mega__img bg-image lazyload visible-xs-block" style="height:226px!important;" data-bgset="images/menu/oficinas.png" data-alt="Oficinas Disponibles City Place"></div>
                     <div class="site-mega__img bg-image lazyload visible-sm-block" style="height:226px!important;" data-bgset="images/menu/oficinas.png" data-alt="Oficinas Disponibles City Place"></div>
@@ -482,14 +484,14 @@
                   </figure>
                 </a>
                 <p>Envianos tus datos para recibir más información sobre nuestras oficinas disponibles.</p>
-                <a class="btn btn-link" href="signin.php" style="font-weight: 800 !important;">MÁS INFORMACIÓN</a>
+                <a class="btn btn-link" href="https://oficina.cityplacecr.com/contacto/oficinas" style="font-weight: 800 !important;">MÁS INFORMACIÓN</a>
 
               </div>
             </div>
           </div>
           <div class="row margin-xs">
             <div class="col-xs-24">
-              <a href="signin.php" class="btn btn-default btn-block" style="background-color:black;color:white">Tus Oficinas en City Place </a>
+              <a href="https://oficina.cityplacecr.com/contacto/oficinas" class="btn btn-default btn-block" style="background-color:black;color:white">Tus Oficinas en City Place </a>
             </div>
           </div>
         </div>
