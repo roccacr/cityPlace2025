@@ -289,7 +289,7 @@
 
                                             </p>
                                         </div>
-                                        <a href="NewmarkGrubbKnightFrank.php"  class="stayExploreMoreCTA btn btn-default-transparent btn-block-sm text-uppercase margin-right-xs-px">
+                                        <a href="Newmark.php"  class="stayExploreMoreCTA btn btn-default-transparent btn-block-sm text-uppercase margin-right-xs-px">
                                             MÁS INFORMACIÓN
 
                                         </a>
