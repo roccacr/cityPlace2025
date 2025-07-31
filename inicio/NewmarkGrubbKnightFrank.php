@@ -33,7 +33,7 @@
                                         </li>
                                         <li>
                                             <span class="arrow"></span>
-                                            Newmark Grubb Knight Frank
+                                            Newmark
                                         </li>
                                     </ul>
 
@@ -52,7 +52,7 @@
                                     <div class="row">
                                         <div class="col-sm-22 col-sm-offset-1">
 
-                                            <img src="https://demo.cityplacecr.com/images/Oficinas/NewMark/logo1.png" alt=" Newmark Grubb Knight Frank City Place" class="sg-mb-30px sg-hero-logo invert" style="min-height:85px"  />
+                                            <img src="./images/NUEVOS/newmark/logo.png" alt=" Newmark City Place" class="sg-mb-30px sg-hero-logo invert" style="min-height:50px;"  />
 
                                             <div class="solid-line hidden-xs sg-mb-20px"></div>
                                         </div>
@@ -61,7 +61,8 @@
                                     <div class="row hidden-xs" id="end_gold_twig">
                                         <div class="col-sm-10 col-sm-offset-1">
                                             <p class="text-white">
-                                                La plataforma de servicios completamente integrada de Newmark Costa Rica ofrece soluciones inmobiliarias completas para propietarios, ocupantes, inversionistas y desarrolladores.</p>
+                                            En Newmark Centroamérica conectamos a inquilinos, propietarios e inversionistas con soluciones inmobiliarias estratégicas que impulsan el valor de cada propiedad. Asesoramos en la toma de decisiones para espacios de oficinas, inmuebles industriales, comerciales y más, con un enfoque integral que combina análisis, experiencia y visión de negocio. Nuestro equipo acompaña cada etapa del proceso con conocimiento del mercado y compromiso con resultados.       
+                                        </p>
                                         </div>
                                         <div class="col-sm-11 col-sm-offset-1">
                                             <div class="row margin-bottom-xs">
@@ -84,7 +85,7 @@
                                                 <div class="col-sm-24 col-md-14">
                                                     <p class="text-white">
                                                         <span><img src="images/NUEVOS/email.png" style="width: 20px;"></span>
-                                                        <a href="mailto:comunicacion@ngcentralamerica.com" class="text-white topLinkGold">comunicacion@ngcentralamerica.com</a>
+                                                        <a href="mailto:centroamerica@nmrk.lat" class="text-white topLinkGold">centroamerica@nmrk.lat</a>
                                                     </p>
                                                 </div>
 
@@ -107,9 +108,9 @@
                                                 <span class="icon-phone"></span>
                                                 <span>+506 4000 5171</span>
                                             </a>
-                                            <a href="mailto:comunicacion@ngcentralamerica.com" class="btn btn-default-transparent text-uppercase visible-xs">
+                                            <a href="mailto:centroamerica@nmrk.lat" class="btn btn-default-transparent text-uppercase visible-xs">
                                                 <span class="icon-envelope"></span>
-                                                <span>comunicacion@ngcentralamerica.com</span>
+                                                <span>centroamerica@nmrk.lat</span>
                                             </a>
                                         </div>
                                     </div>
@@ -126,10 +127,10 @@
                             <div class="block-visuals">
 
                                 <figure class="block-cover-img">
-                                    <div class="bg-image lazyload visible-xs-block" data-bgset="https://demo.cityplacecr.com/images/Oficinas/NewMark/banner.jpg" data-alt=" Newmark Grubb Knight Frank City Place"></div>
-                                    <div class="bg-image lazyload visible-sm-block" data-bgset="https://demo.cityplacecr.com/images/Oficinas/NewMark/banner.jpg" data-alt=" Newmark Grubb Knight Frank City Place"></div>
-                                    <div class="bg-image lazyload visible-md-block" data-bgset="https://demo.cityplacecr.com/images/Oficinas/NewMark/banner.jpg" data-alt=" Newmark Grubb Knight Frank City Place"></div>
-                                    <div class="bg-image lazyload visible-lg-block" data-bgset="https://demo.cityplacecr.com/images/Oficinas/NewMark/banner.jpg" data-alt=" Newmark Grubb Knight Frank City Place"></div>
+                                    <div class="bg-image lazyload visible-xs-block" data-bgset="./images/NUEVOS/newmark/Banner.jpg" data-alt=" Newmark City Place"></div>
+                                    <div class="bg-image lazyload visible-sm-block" data-bgset="./images/NUEVOS/newmark/Banner.jpg" data-alt=" Newmark City Place"></div>
+                                    <div class="bg-image lazyload visible-md-block" data-bgset="./images/NUEVOS/newmark/Banner.jpg" data-alt=" Newmark City Place"></div>
+                                    <div class="bg-image lazyload visible-lg-block" data-bgset="./images/NUEVOS/newmark/Banner.jpg" data-alt=" Newmark City Place"></div>
                                 </figure>
                             </div>
                         </div>
@@ -150,14 +151,14 @@
                             <div class="block-content">
                                 <div class="display-table">
                                     <div class="display-table-cell col-middle text-center">
-                                        <h5 class="sg-mb-25px text-uppercase" style="font-size: 20px;">Newmark Grubb Knight Frank</h5>
+                                        <h5 class="sg-mb-25px text-uppercase" style="font-size: 20px;">Newmark</h5>
 
-                                        <h2 class="sg-mb-20px">Nuestro éxito, después el suyo </h2>
+                                        <h2 class="sg-mb-20px">Tus socios estratégicos en bienes raíces comerciales.</h2>
 
                                         <div class="col-lg-12 col-lg-offset-6 col-md-18 col-md-offset-3 sg-mb-30px">
                                            
                                             <p>
-                                                <a href="https://ngcentralamerica.com/media-center/press-releases/conozca-el-portafolio-de-servicios-de-newmark-grubb-en-centroamerica/" class="btn btn-primary-transparent btn-block text-uppercase plusicon_ar" style="border-color: #000;">Visita Página</a>
+                                                <a href="https://centroamerica.nmrk.lat/" class="btn btn-primary-transparent btn-block text-uppercase plusicon_ar" style="border-color: #000;">Página Web</a>
                                             </p>
 
                                         </div>
@@ -173,19 +174,19 @@
 
                                 <div class="slick-slide">
                                     <figure class="block-cover-img">
-                                        <div data-bgset="https://demo.cityplacecr.com/images/Oficinas/NewMark/3.png" class="bg-image lazyload" data-alt=" Newmark Grubb Knight Frank City Place"></div>
+                                        <div data-bgset="./images/NUEVOS/newmark/1.jpg" class="bg-image lazyload" data-alt=" Newmark City Place"></div>
                                     </figure>
                                 </div>
 
                                 <div class="slick-slide">
                                     <figure class="block-cover-img">
-                                        <div data-bgset="https://demo.cityplacecr.com/images/Oficinas/NewMark/2.jpg" class="bg-image lazyload" data-alt=" Newmark Grubb Knight Frank City Place"></div>
+                                        <div data-bgset="./images/NUEVOS/newmark/2.jpg" class="bg-image lazyload" data-alt=" Newmark City Place"></div>
                                     </figure>
                                 </div>
 
                                 <div class="slick-slide">
                                     <figure class="block-cover-img">
-                                        <div data-bgset="https://demo.cityplacecr.com/images/Oficinas/NewMark/4.jpg" class="bg-image lazyload" data-alt=" Newmark Grubb Knight Frank City Place"></div>
+                                        <div data-bgset="./images/NUEVOS/newmark/3.jpg" class="bg-image lazyload" data-alt=" Newmark City Place"></div>
                                     </figure>
                                 </div>
 

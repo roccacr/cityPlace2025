@@ -285,7 +285,7 @@
                                             <h2 class="sg-mb-10px">Newmark</h2>
                                             <p class="text-white sg-mb-20px hidden-xs">
 
-                                                La plataforma de servicios completamente integrada de Newmark Costa Rica ofrece soluciones inmobiliarias completas para propietarios, ocupantes, inversionistas y desarrolladores.La plataforma de servicios completamente integrada de Newmark Costa Rica ofrece soluciones inmobiliarias completas para propietarios, ocupantes, inversionistas y desarrolladores.
+                                            Newmark es un asesor líder en bienes raíces comerciales y proveedor de servicios para grandes inversionistas institucionales, corporaciones globales, propietarios e inquilinos.
 
                                             </p>
                                         </div>
@@ -300,7 +300,7 @@
                         <div class="block-gradient"></div>
                         <div class="block-visuals">
                             <figure class="block-cover-img">
-                                <div data-bgset="https://demo.cityplacecr.com/images/tiendas/ng.png" class="bg-image lazyload" data-alt="Newmark Grubb Knight Frank City Place"></div>
+                                <div data-bgset="./images/NUEVOS/newmark/portada.jpg" class="bg-image lazyload" data-alt="Newmark City Place"></div>
                             </figure>
                         </div>
                     </div>
