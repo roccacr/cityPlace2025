@@ -889,7 +889,7 @@
                             <img src="images/cuponera/BELOVED-logo.png" alt="" width="35%"
                                 style="margin-top: 3%; margin-left: 30%;">
                             <br><br>
-                            <h4>Beauty Salon.</h4>
+                            <h4 style="margin-left: 40%;">Beauty Salon.</h4>
                             <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
                         </div>
                     </div>
@@ -909,6 +909,34 @@
 
                 </div>
 
+
+
+                   <!--Wild Side-->
+                   <div class="fixed-size-container">
+                    <div class="fixed-size2">
+                        <div class="text">
+                            <img src="images/cuponera/wildsideLogo.png" alt="" width="35%"
+                                style="margin-top: 0%; margin-left: 30%;">
+                            <br><br>
+                            <h4 style="margin-left: 40%;">Bistro Café.</h4>
+                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
+                        </div>
+                    </div>
+                    <div class="fixed-size1">
+                    <div class="text" style="margin-top: 7%;">
+
+
+<!-- <h3>Cupón válido por </h3> -->
+<span class="span">10%</span>
+
+<h3 class="info">Descuento en menú</h3>
+<h4 class="important">*Presentar este cupón. No aplica con otras promociones.</h4>
+
+</div>
+
+                    </div>
+
+                </div>
 
 
 
