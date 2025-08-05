@@ -889,7 +889,7 @@
                             <img src="images/cuponera/BELOVED-logo.png" alt="" width="35%"
                                 style="margin-top: -2%; margin-left: 30%;">
                             <br><br>
-                            <h4 style="margin-left: 35%;">Salon de Belleza</h4>
+                            <h4 style="margin-left: 35%;">Salón de Belleza</h4>
                             <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
                         </div>
                     </div>
