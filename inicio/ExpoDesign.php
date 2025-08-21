@@ -65,7 +65,7 @@
                                                 <div class="col-sm-24 col-md-10">
                                                     <p class="text-white">
                                                         <span><img src="images/NUEVOS/phone.png" style="width: 20px;"></span>
-                                                        <a href="tel:+506 8800-5656" class="text-white plusicon_ar topLinkGold"> +506 8800-5656</a>
+                                                        <a href="tel:+506 6397-6439" class="text-white plusicon_ar topLinkGold"> +506 6397-6439</a>
                                                     </p>
                                                 </div>
 
@@ -92,9 +92,9 @@
 
                                     <div class="row visible-xs sg-mb-20px" id="icon_reverse_ar">
                                         <div class="col-sm-22 col-sm-offset-1">
-                                            <a href="tel: +506 8800-5656" class="btn btn-default-transparent text-uppercase visible-xs">
+                                            <a href="tel: +506 6397-6439" class="btn btn-default-transparent text-uppercase visible-xs">
                                                 <span class="icon-phone"></span>
-                                                <span>+506 8800-5656</span>
+                                                <span>+506 6397-6439</span>
                                             </a>
                                             <a href="tel:+ 506 4035 5000" class="btn btn-default-transparent text-uppercase visible-xs">
                                                 <span class="icon-phone"></span>
