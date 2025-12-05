@@ -1,0 +1,359 @@
+.header-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.header-titulo {
+    color: #000;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.75531rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    padding: 1rem 0
+}
+.header-subtitulo {
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.27663rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0px;
+}
+.header-parrafo {
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.95744rem;
+    font-style: normal;
+    font-weight: 300;
+    margin: 0px;
+    line-height: 11px;
+}
+.header-parrafos-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0.5rem 0 0 0;
+}
+.cupon-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 0.631px solid #555959;
+    width: 40%;
+    height: 22.1rem;
+}
+.cupon-ineercontainertxt {
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end !important;
+    align-items: center;
+    row-gap: 3.5rem;
+}
+.cupon-ineercontainer {
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end !important;
+    align-items: center;
+}
+.cupon-maincontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    row-gap: 2rem;
+    padding: 2rem 0;
+}
+
+.img-bk {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.description-txt {
+    color: #FFF;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.03463rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.bigpromo-txt{
+    color: #373A36;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 8.862rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.txt-txt{
+    color: #373A36;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.65694rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.disclaimer-txt{
+    color: #373A36;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.64763rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.bigpromo-txt-double{
+    color: #373A36;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5.53356rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.txt-txt-double{ 
+    color: #373A36;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.03463rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 5px;
+}
+.categorias-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin: 30px 0;
+}
+
+.categoria-titulo {
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.27663rem;
+    font-weight: 400;
+    margin: 0 10px;
+    padding-bottom: 4px;
+    position: relative;
+}
+
+.categoria-titulo.active {
+    font-weight: 600;
+}
+
+.categoria-titulo.active::after {
+    content: '';
+    position: absolute;
+    height: 1px;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color: #000;
+}
+
+
+@media (max-width: 600px) {
+    .header-container{
+        padding: 2rem 0 0 0;
+    }
+    .header-titulo{
+        font-size: 0.99756rem;
+    }
+    .header-subtitulo{
+        font-size: 0.7255rem;
+    }
+    .header-parrafo{
+        font-size: 0.54413rem;
+    }
+    .cupon-container{
+        width: 80%;
+        height: 11.1rem;
+    }
+    .cupon-ineercontainertxt{
+        row-gap: 1.5rem;
+    }
+    .bigpromo-txt{
+        font-size: 3.55825rem;
+    }
+    .txt-txt{
+        font-size: 0.66531rem;
+        line-height: 0px;
+    }
+    .disclaimer-txt{
+        font-size: 0.34763rem;
+    }
+    .bigpromo-txt-double{
+        font-size: 2.22181rem;
+    }
+    .txt-txt-double{
+        font-size: 0.41544rem;
+        line-height: 0px;
+    }
+    .description-txt{
+        font-size: 0.41544rem;
+    }
+    .categoria-titulo {
+        font-size: 0.60944rem;
+        margin: 0 5px;
+    }
+    .categorias-container {
+        margin: 5px 0;
+    }
+    .cupon-maincontainer{
+        padding: 1rem 0;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 1024px) {
+    .header-container{
+        padding: 2rem 0 0 0;
+    }
+    .header-titulo{
+        font-size: 1.375rem;
+    }
+    .header-subtitulo{
+        font-size: 1rem;
+    }
+    .header-parrafo{
+        font-size: 0.75rem;
+    }
+    .cupon-container{
+        width: 80%;
+        height: 16.1rem;
+    }
+    .cupon-ineercontainertxt{
+        row-gap: 1.5rem;
+    }
+    .bigpromo-txt{
+        font-size: 5.55638rem;
+    }
+    .txt-txt{
+        font-size: 1.59981rem;
+        line-height: normal;
+    }
+    .disclaimer-txt{
+        font-size: 0.62531rem;
+    }
+    .bigpromo-txt-double{
+        font-size: 3.04269rem;
+    }
+    .txt-txt-double{
+        font-size: 0.79894rem;
+        line-height: normal;
+    }
+    .description-txt{
+        font-size: 0.99894rem;
+    }
+    .categoria-titulo {
+        font-size: 0.60944rem;
+        margin: 0 5px;
+    }
+    .cupon-maincontainer{
+        padding: 1rem 0;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1400px) {
+    .header-container{
+        padding: 2rem 0 0 0;
+    }
+    .header-titulo{
+        font-size: 1.375rem;
+    }
+    .header-subtitulo{
+        font-size: 1rem;
+    }
+    .header-parrafo{
+        font-size: 0.75rem;
+    }
+    .cupon-container{
+        width: 80%;
+        height: 20.1rem;
+    }
+    .cupon-ineercontainertxt{
+        row-gap: 1.5rem;
+    }
+    .bigpromo-txt{
+        font-size: 5.55638rem;
+    }
+    .txt-txt{
+        font-size: 1.59981rem;
+        line-height: normal;
+    }
+    .disclaimer-txt{
+        font-size: 0.62531rem;
+    }
+    .bigpromo-txt-double{
+        font-size: 4.04269rem;
+    }
+    .txt-txt-double{
+        font-size: 0.99894rem;
+        line-height: normal;
+    }
+    .description-txt{
+        font-size: 0.99894rem;
+    }
+}
+@media (min-width: 1401px) and (max-width: 1600px) {
+    .header-container{
+        padding: 2rem 0 0 0;
+    }
+    .header-titulo{
+        font-size: 1.375rem;
+    }
+    .header-subtitulo{
+        font-size: 1rem;
+    }
+    .header-parrafo{
+        font-size: 0.75rem;
+    }
+    .cupon-container{
+        width: 60%;
+        height: 20.1rem;
+    }
+    .cupon-ineercontainertxt{
+        row-gap: 1.5rem;
+    }
+    .bigpromo-txt{
+        font-size: 5.55638rem;
+    }
+    .txt-txt{
+        font-size: 1.59981rem;
+        line-height: normal;
+    }
+    .disclaimer-txt{
+        font-size: 0.62531rem;
+    }
+    .bigpromo-txt-double{
+        font-size: 4.04269rem;
+    }
+    .txt-txt-double{
+        font-size: 0.99894rem;
+        line-height: normal;
+    }
+    .description-txt{
+        font-size: 0.99894rem;
+    }
+}

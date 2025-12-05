@@ -1,0 +1,63 @@
+[
+  {
+    "logo": "images/cuponesnuevos/logos/Cupones internos_Studio_Cinemas_logo.svg",
+    "img": "images/cuponesnuevos/fondos/Cupones internos_Studio_Cinemas.webp",
+    "txt": "En boletos",
+    "txt2": "Sin límite de uso",
+    "bigpromo": "2x1",
+    "type": "single",
+    "categorie": "ENTRETENIMIENTO",
+    "description": "Tu cine favorito en Santa Ana",
+    "disclaimer": "*No aplica los días miércoles. No aplica en películas de estreno durante la primera semana."
+  },
+  {
+    "logo": "images/cuponesnuevos/logos/Cupones internos_Go fish logo.svg",
+    "img": "images/cuponesnuevos/fondos/Cupones internos_Go fish.webp",
+    "txt": "Descuento sobre el",
+    "txt2": "menú regular",
+    "bigpromo": "10%",
+    "type": "single",
+    "categorie": "GASTONOMIA",
+    "description": "Una experiencia única de mariscos",
+    "disclaimer": "*No aplica con otras promociones o paquetes."
+  },
+  {
+    "logo": "images/cuponesnuevos/logos/Cupones internos_Hilton logo.svg",
+    "img": "images/cuponesnuevos/fondos/Cupones internos_Hilton.webp",
+    "txt": "Descuento en carta regular",
+    "txt2": "de restaurante y bar",
+    "bigpromo": "10%",
+    "type": "single",
+    "categorie": "GASTONOMIA",
+    "description": "Hotel más nuevo de la ciudad",
+    "disclaimer": "*No aplica con otras promociones"
+  },
+  {
+    "logo": "images/cuponesnuevos/logos/Cupones internos_dental gabriela logo.svg",
+    "img": "images/cuponesnuevos/fondos/Cupones internos_dental gabriela.webp",
+    "txt": "Blanqueamiento dental laser +",
+    "txt2": "Blanqueamiento dental en casa",
+    "bigpromo": "20%",
+    "txtD": "Valoración dental, limpieza dental, ⁠valoración",
+    "txt2D": "de Odontontopediaria, ⁠ferula dental bruxismo",
+    "bigpromoD": "10%",
+    "type": "double",
+    "categorie": "SALUD",
+    "description": "Consultorio Dental",
+    "disclaimer": ""
+  },
+  {
+    "logo": "images/cuponesnuevos/logos/Cupones internos_gaia logo.svg",
+    "img": "images/cuponesnuevos/fondos/Cupones internos_gaia.webp",
+    "txt": "Descuento en toda la tienda",
+    "txt2": "",
+    "bigpromo": "15%",
+    "txtD": "",
+    "txt2D": "",
+    "bigpromoD": "",
+    "type": "single",
+    "categorie": "COMERCIO",
+    "description": "Design Collector",
+    "disclaimer": "*Aplica restricciones"
+  }
+]

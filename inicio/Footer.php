@@ -271,7 +271,7 @@
 
 
   <div class="site-footer__disclaimer">
-    <p><span class="logo--footer"></span><span class="site-footer__disclaimer__inner">&copy; 2022 City Place. Todos los derechos reservados.</span></p>
+    <p><span class="logo--footer"></span><span class="site-footer__disclaimer__inner">&copy; 2025 City Place. Todos los derechos reservados.</span></p>
   </div>
 </footer>
 
