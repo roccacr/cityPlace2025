@@ -49,8 +49,8 @@
   {
     "logo": "images/cuponesnuevos/logos/Cupones internos_gaia logo.svg",
     "img": "images/cuponesnuevos/fondos/Cupones internos_gaia.webp",
-    "txt": "Descuento en toda la tienda",
-    "txt2": "",
+    "txt": "Descuento en",
+    "txt2": "toda la tienda",
     "bigpromo": "15%",
     "txtD": "",
     "txt2D": "",
