@@ -28,7 +28,7 @@
                 <div class="header-container">
                     <h1 class="header-titulo">Beneficios exclusivos para colaboradores</h1>
 
-                    <h2 class="header-subtitulo">Ser parte de City Place tiene sus privilegios.</h2>
+                    <!-- <h2 class="header-subtitulo">Ser parte de City Place tiene sus privilegios.</h2> -->
                     <h2 class="header-subtitulo">Accedé a descuentos especiales, promociones y beneficios diseñados para vos.</h2>
                 <div class="header-parrafos-container">
                     <p class="header-parrafo">

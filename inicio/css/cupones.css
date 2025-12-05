@@ -10,7 +10,7 @@
     color: #000;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.75531rem;
+    font-size: 3rem;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -20,7 +20,7 @@
 .header-subtitulo {
     color: #000;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.27663rem;
+    font-size: 1.8rem;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -29,11 +29,11 @@
 .header-parrafo {
     color: #000;
     font-family: 'Montserrat', sans-serif;
-    font-size: 0.95744rem;
+    font-size: 1.2rem;
     font-style: normal;
     font-weight: 300;
     margin: 0px;
-    line-height: 11px;
+    line-height: 15px;
 }
 .header-parrafos-container{
     display: flex;
@@ -288,7 +288,7 @@
         padding: 2rem 0 0 0;
     }
     .header-titulo{
-        font-size: 1.375rem;
+        font-size: 2.375rem;
     }
     .header-subtitulo{
         font-size: 1rem;
@@ -329,13 +329,13 @@
         padding: 2rem 0 0 0;
     }
     .header-titulo{
-        font-size: 1.375rem;
+        font-size: 3rem;
     }
     .header-subtitulo{
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     .header-parrafo{
-        font-size: 0.75rem;
+        font-size: 1rem;
     }
     .cupon-container{
         width: 60%;
