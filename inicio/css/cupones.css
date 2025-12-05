@@ -71,6 +71,7 @@
     flex-direction: column;
     justify-content: flex-end !important;
     align-items: center;
+    padding-bottom: 3%;
 }
 .cupon-maincontainer{
     display: flex;
@@ -103,7 +104,7 @@
     font-size: 8.862rem;
     font-style: normal;
     font-weight: 800;
-    line-height: normal;
+    line-height: 7rem;
 }
 .txt-txt{
     color: #373A36;
@@ -194,8 +195,12 @@
     .cupon-ineercontainertxt{
         row-gap: 1.5rem;
     }
+    .cupon-ineercontainer{
+        row-gap: 1.5rem;
+    }
     .bigpromo-txt{
         font-size: 3.55825rem;
+        line-height: 0rem;
     }
     .txt-txt{
         font-size: 0.66531rem;
@@ -335,9 +340,10 @@
     }
     .cupon-ineercontainertxt{
         row-gap: 1.5rem;
+        padding-bottom: 2.5%;
     }
     .bigpromo-txt{
-        font-size: 5.55638rem;
+        font-size: 9.55638rem;
     }
     .txt-txt{
         font-size: 1.59981rem;
