@@ -69,9 +69,9 @@
     object-fit: cover;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end !important;
+    justify-content: center;
     align-items: center;
-    padding-bottom: 3%;
+    /* padding-bottom: 3%; */
 }
 .cupon-maincontainer{
     display: flex;
@@ -340,7 +340,6 @@
     }
     .cupon-ineercontainertxt{
         row-gap: 1.5rem;
-        padding-bottom: 2.5%;
     }
     .bigpromo-txt{
         font-size: 9.55638rem;
