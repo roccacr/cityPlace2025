@@ -196,11 +196,11 @@
         row-gap: 1.5rem;
     }
     .cupon-ineercontainer{
-        row-gap: 1.5rem;
+        row-gap: 0.5rem;
     }
     .bigpromo-txt{
         font-size: 3.55825rem;
-        line-height: 0rem;
+        line-height: 2rem;
     }
     .txt-txt{
         font-size: 0.66531rem;
