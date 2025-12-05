@@ -87,7 +87,7 @@
 
                         <h3 class="description-txt"><?php echo $description; ?></h3>
                     </div>
-                    <div class="cupon-ineercontainer info">
+                    <div class="cupon-ineercontainer info <?php echo $coupon['type']; ?>">
                         <?php if ($coupon['type'] == 'single') { ?>
                         <h3 class="bigpromo-txt"><?php echo $bigpromo; ?></h3>
                         <h3 class="txt-txt"><?php echo $txt; ?></h3>
