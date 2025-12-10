@@ -2,301 +2,12 @@
 
 
 
-<style>
-.fixed-size-container {
-    max-width: 1000px;
-    margin: 40px auto 0 auto;
-    background-color: #FFF;
-    /* padding: 30px 0; */
-    display: flex;
-    align-items: center;
-    border: 1px solid black;
 
-
-}
-
-.fixed-size1 {
-    width: 500px;
-    height: 250px;
-    background-color: green;
-    color: #FFF;
-    line-height: 50px;
-    text-align: center;
-    font-weight: bold;
-    font-size: 12px;
-    background-color: white;
-    color: black;
-
-}
-
-.fixed-size1 .text {
-
-    text-align: center;
-    margin-top: 14%;
-
-
-}
-
-.info {
-    font-family: 'Montserrat', sans-serif;
-    padding: 13px 0 0 30px;
-    text-align: center;
-
-
-}
-
-.span {
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-    font-size: 85px;
-
-
-
-}
-
-
-.fixed-size1 .text p {
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-    font-weight: 300;
-
-}
-
-
-.fixed-size2 {
-    width: 500px;
-    height: 250px;
-    background-color: green;
-    color: #FFF;
-    line-height: 20px;
-    text-align: center;
-    font-weight: bold;
-    font-size: 12px;
-    background-color: black;
-    color: white;
-
-}
-
-.fixed-size2 .text {
-    text-align: left;
-    padding: 30px 0 0 20px;
-
-}
-
-.fixed-size2 .text h3 {
-    text-align: left;
-    padding: 10px 0 0 0;
-    line-height: 30px;
-    font-size: 20px;
-
-}
-
-.fixed-size2 .text p {
-    text-align: left;
-    padding: 40px 0 0 0;
-    font-weight: 300;
-    line-height: 20px;
-    font-size: 11px;
-
-}
-
-.fixed-size2 .text h4 {
-    margin-top: -1%;
-    margin-left: 20%;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-}
-
-.prin {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
-    font-size: 36px;
-    margin-left: 36%;
-}
-
-.sec {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 29px;
-    margin-left: 36%;
-    margin-top: -1.5%;
-
-}
-
-.important {
-    font-weight: 300;
-    text-align: center;
-    line-height: 20px;
-    font-family: 'Montserrat', sans-serif;
-    background-color: #000;
-    color: #FFF;
-    margin-left: 5%;
-    margin-right: 2%;
-    font-size: 20px;
-}
-
-.double {
-    font-size: 60px;
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-
-}
-
-.doubletxt {
-    font-family: 'Montserrat', sans-serif;
-    margin-top: 1%;
-    font-size: 15px;
-}
-
-.doubletxt2 {
-    font-family: 'Montserrat', sans-serif;
-    margin-top: 1%;
-    font-size: 15px;
-}
-
-@media (max-width: 768px) {
-    .prin {
-        font-family: 'Montserrat', sans-serif;
-        font-weight: 600;
-        font-size: 36px;
-        margin-left: 16%;
-    }
-
-    .sec {
-        font-family: 'Montserrat', sans-serif;
-        font-size: 29px;
-        margin-left: 16%;
-        margin-top: -1.5%;
-    }
-
-    .info {
-        padding: 6px 0 0 0px;
-        text-align: center;
-        font-size: 20px;
-    }
-
-    .important {
-        font-weight: 300;
-        text-align: center;
-        line-height: 20px;
-        font-family: 'Montserrat', sans-serif;
-        background-color: #000;
-        color: #FFF;
-        margin-left: 5%;
-        margin-right: 2%;
-        font-size: 12px;
-    }
-
-    .double {
-        font-size: 55px;
-        font-family: 'Montserrat', sans-serif;
-        text-align: center;
-
-    }
-
-    .doubletxt {
-        font-family: 'Montserrat', sans-serif;
-        margin-top: 1%;
-        font-size: 12px;
-    }
-
-    .doubletxt2 {
-        font-family: 'Montserrat', sans-serif;
-        margin-top: 1%;
-        font-size: 12px;
-    }
-}
-
-@media (max-width: 700px) {
-    .prin {
-        font-family: 'Montserrat', sans-serif;
-        font-weight: 600;
-        font-size: 36px;
-        margin-top: 16%;
-        margin-left: 16%;
-    }
-
-    .sec {
-        font-family: 'Montserrat', sans-serif;
-        font-size: 29px;
-        margin-left: 16%;
-        margin-top: -1.5%;
-    }
-
-}
-
-@media (max-width: 320px) {
-    .prin {
-        font-family: 'Montserrat', sans-serif;
-        font-weight: 600;
-        font-size: 20px;
-        margin-top: 16%;
-        margin-left: 5%;
-    }
-
-    .sec {
-        font-family: 'Montserrat', sans-serif;
-        font-size: 15px;
-        margin-left: 7%;
-        margin-top: -3.5%;
-    }
-
-    .info {
-        padding: 0px 0 0 0px;
-        text-align: center;
-        font-size: 15px;
-    }
-
-    .span {
-        font-family: 'Montserrat', sans-serif;
-        text-align: center;
-        font-size: 60px;
-    }
-
-    .important {
-        font-weight: 300;
-        text-align: center;
-        line-height: 20px;
-        font-family: 'Montserrat', sans-serif;
-        background-color: #000;
-        color: #FFF;
-        margin-left: 5%;
-        margin-right: 2%;
-        font-size: 7px;
-    }
-
-    .double {
-        font-size: 40px;
-        font-family: 'Montserrat', sans-serif;
-        text-align: center;
-
-    }
-
-    .doubletxt {
-        font-family: 'Montserrat', sans-serif;
-        margin-top: -3%;
-        font-size: 12px;
-    }
-
-    .doubletxt2 {
-        font-family: 'Montserrat', sans-serif;
-        margin-top: -17%;
-        font-size: 12px;
-    }
-
-    .fixed-size2 .text h4 {
-        margin-top: -1%;
-        margin-left: -3%;
-        font-family: 'Montserrat', sans-serif;
-        font-size: 15px;
-    }
-
-
-}
-</style>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/cupones.css">
 
 <div>
     <div class="site">
@@ -313,644 +24,96 @@
                 </nav>
 
                 <br>
-                <h1 class="prin">BENEFICIOS EXCLUSIVOS</h1>
-                <h1 class="sec">Para colaboradores de City Place</h1>
-
-                <!--THE YARD-->
-
-                <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/Restaurantes/theyard/logoblanco.png" alt="" width="55%"
-                                style="margin-top: 5%; margin-left: 17%;">
-                            <br><br><br><br>
-                            <h4 style="margin-left:30%">¡Cocktails to go!</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text">
-
-
-                            <!-- <h3>Cupón válido por </h3> -->
-                            <span class="span">30%</span>
-
-                            <h3 class="info">Descuento en refill de yardas al traer el envase</h3>
-                            <h4 class="important">*No aplica con otras promociones o paquetes.</h4>
-
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-
-
-                <!--CALLEJON MEXICANO-->
-                <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/callejonmexicano-logo.png" alt="" width="55%"
-                                style="margin-top: 5%; margin-left: 17%;">
-                            <br><br>
-                            <h4 style="margin-left:30%">Taquería Mexicana</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text">
-
-
-                            <!-- <h3>Cupón válido por </h3> -->
-                            <span class="span">10%</span>
-
-                            <h3 class="info">Descuento sobre el menú regular</h3>
-                            <h4 class="important">*No aplica con otras promociones o paquetes.</h4>
-
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-                <!--Go Fish-->
-                <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/LOGO-GO FISH BLANCO.png" alt="" width="55%"
-                                style="margin-top: 5%; margin-left: 17%;">
-                            <br><br>
-                            <h4>Una experiencia única de mariscos</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text">
-
-
-                            <!-- <h3>Cupón válido por </h3> -->
-                            <span class="span">10%</span>
-
-                            <h3 class="info">Descuento sobre el menú regular</h3>
-                            <h4 class="important">*No aplica con otras promociones.</h4>
-
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
            
+                <div class="header-container">
+                    <h1 class="header-titulo">Beneficios exclusivos para colaboradores</h1>
 
-               
-
-                <!--STUDIO CINEMA-->
-                <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/STUDIOCINEMAS-logo.png" alt="" width="55%"
-                                style="margin-top: 5%; margin-left: 17%;">
-                            <br><br>
-                            <h4 style="margin-left :20%;">Tu cine favorito en Santa Ana</h4>
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text" style="margin-top: 5%;">
-
-                            <!-- <h3>Cupón válido por </h3> -->
-                            <span class="span">2X1</span>
-
-                            <h3 class="info">En boletos. Sin límite de uso.</h3>
-                            <h4 class="important">*No aplica los días miércoles. No aplica en películas de estreno
-                                durante la primera semana.</h4>
-
-
-                        </div>
-
-                    </div>
-
+                    <!-- <h2 class="header-subtitulo">Ser parte de City Place tiene sus privilegios.</h2> -->
+                    <h2 class="header-subtitulo">Accedé a descuentos especiales, promociones y beneficios diseñados para vos.</h2>
+                <div class="header-parrafos-container">
+                    <p class="header-parrafo">
+                    Aplican únicamente para colaboradores de empresas ubicadas en City Place. 
+                    </p>
+                    <p class="header-parrafo">
+                    Es indispensable presentar el badge o una identificación empresarial vigente.
+                    </p>
                 </div>
 
-            
+                <div class="categorias-container">
 
+                <h3 class="categoria-titulo" data-category="ALL">VER TODOS</h3>
 
-           
+                <h3 class="categoria-titulo" data-category="GASTONOMIA">GASTONOMÍA</h3>
 
-                <!--COSI-->
-                <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/COSI-logo.png" alt="" width="55%"
-                                style="margin-top: 5%; margin-left: 17%;">
-                            <br><br>
-                            <h4 style="margin-left :10%;">Cadena de restaurantes del segmento Fast-Casual.</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text">
+                <h3 class="categoria-titulo" data-category="SALUD">SALUD</h3>
 
+                <h3 class="categoria-titulo" data-category="ENTRETENIMIENTO">ENTRETENIMIENTO</h3>
 
-                            <!-- <h3>Cupón válido por </h3> -->
-                            <span class="span">15%</span>
-
-                            <h3 class="info">Descuento en todo el menú.</h3>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <!--506 FIT-->
-                <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/506FIT-logo.png" alt="" width="55%"
-                                style="margin-top: 5%; margin-left: 17%;">
-                            <br><br>
-                            <h4>Gimnasio, acondicionamiento deportivo, entrenamiento personal y clases grupales</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text" style="margin-top: 3%;">
-
-                            <span class="double">$60</span>
-                            <h3 class="doubletxt">Mensualidad</h3>
-                            <span class="double">50%</span>
-                            <h3 class="doubletxt">Matrícula</h3>
-
-
-                            <h4 class="important">*No aplica con otras promociones.</h4>
-
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-                <!--CENTRO DE NUTRICION LARISSA PAEZ-->
-                <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/CNPlogonuevo.png" alt="" width="35%"
-                                style="margin-top: 3%; margin-left: 30%;">
-                            <br><br>
-                            <h4>Consultas nutricionales y psicología.</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text" style="margin-top: 4%;">
-
-
-                            <!-- <h3>Cupón válido por </h3> -->
-                            <span class="double">15%</span>
-                            <h3 class="doubletxt2">Consulta Individual Nutrición o Psicología
-                            </h3>
-                            <span class="double">10%</span>
-                            <h3 class="doubletxt2">Programas de 6 citas: Wellness, Básico de Nutrición, Básico de Psicología</h3>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <!--THE TREE HOUSE-->
-                <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/THETREEHOUSE-logo.png" alt="" width="55%"
-                                style="margin-top: 5%; margin-left: 17%;">
-                            <br><br>
-                            <h4 style="margin-left :10%;">Una nueva experiencia gastronómica en la ciudad.</h4>
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text" style="margin-top: 1%;">
-
-
-
-                            <span class="double">10%</span>
-                            <h3 class="doubletxt2">Descuento en menú ejecutivo.</h3>
-                            <span class="double">15%</span>
-                            <h3 class="doubletxt2">Descuento en menú abierto</h3>
-
-                            <h4 class="important">*No incluido bebidas alcohólicas.</h4>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-                <!--LABORATORIO SAN JOSE-->
-                <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/LBS-logo.png" alt="" width="55%"
-                                style="margin-top: 5%; margin-left: 17%;">
-                            <br><br>
-                            <h4>Servicios Médicos de Laboratorio.</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text">
-
-
-                            <!-- <h3>Cupón válido por </h3> -->
-                            <span class="span">15%</span>
-
-                            <h3 class="info">Descuento en pruebas de rutina.</h3>
-                            <h4 class="important">*No incluye pruebas especiales que se referencia al extranjero. </h4>
-
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-                <!--HILTON GARDEN INN-->
-                <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/HILTON-logo.png" alt="" width="55%"
-                                style="margin-top: 5%; margin-left: 17%;">
-                            <br><br>
-                            <h4>Hotel más nuevo de la ciudad.</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text">
-
-
-                            <!-- <h3>Cupón válido por </h3> -->
-                            <span class="span">10%</span>
-
-                            <h3 class="info">Descuento en carta regular de restaurante y bar</h3>
-                            <h4 class="important">*No aplica con otras promociones.</h4>
-
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-                <!--LEGACY-->
-                <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/legacyLogo.png" alt="" width="55%"
-                                style="margin-top: 5%; margin-left: 17%;">
-                            <br><br>
-                            <h4>EXCLUSIVE - FASHION - STYLE</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text">
-
-
-                            <!-- <h3>Cupón válido por </h3> -->
-                            <span class="span">12%</span>
-
-                            <h3 class="info">Descuento en toda la tienda</h3>
-                            <h4 class="important">*No aplica en productos en descuento.</h4>
-
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-                    <!--CHIA-->
-                    <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/chiaLogo.png" alt="" width="55%"
-                                style="margin-top: -2%; margin-left: 17%;">
-                            <br><br>
-                            <h4>More than sustainable swimwear</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text">
-
-
-                            <!-- <h3>Cupón válido por </h3> -->
-                            <span class="span">15%</span>
-
-                            <h3 class="info">Descuento en toda la tienda</h3>
-                            <!-- <h4 class="important">*No aplica en productos en descuento.</h4> -->
-
-                        </div>
-
-                    </div>
-
-
-
+                <h3 class="categoria-titulo" data-category="COMERCIO">COMERCIO</h3>
+                    
                 </div>
 
                 
-                    <!--GAIA-->
-                    <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/gaiaLogo.png" alt="" width="55%"
-                                style="margin-top: -2%; margin-left: 17%;">
-                            <br><br>
-                            <h4 style="margin-left: 35%;">Design Collector</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
+                </div>
+                <div class="cupon-maincontainer">
+                <?php
+                $cupones = [];
+                $cuponesJsonPath = __DIR__ . '/data/cupones.json';
+                if (file_exists($cuponesJsonPath)) {
+                    $jsonContent = file_get_contents($cuponesJsonPath);
+                    $cupones = json_decode($jsonContent, true);
+                    if (!is_array($cupones)) {
+                        $cupones = [];
+                    }
+                }
+                if (!empty($cupones)) {
+                    foreach ($cupones as $coupon) {
+                        $logo = htmlspecialchars($coupon['logo'] ?? '', ENT_QUOTES, 'UTF-8');
+                        $description = htmlspecialchars($coupon['description'] ?? '', ENT_QUOTES, 'UTF-8');
+                        $bigpromo = htmlspecialchars($coupon['bigpromo'] ?? '', ENT_QUOTES, 'UTF-8');
+                        $txt = htmlspecialchars($coupon['txt'] ?? '', ENT_QUOTES, 'UTF-8');
+                        $disclaimer = htmlspecialchars($coupon['disclaimer'] ?? '', ENT_QUOTES, 'UTF-8');
+                        $img = htmlspecialchars($coupon['img'] ?? '', ENT_QUOTES, 'UTF-8');
+                        $txt2 = htmlspecialchars($coupon['txt2'] ?? '', ENT_QUOTES, 'UTF-8');
+                        $txtD = htmlspecialchars($coupon['txtD'] ?? '', ENT_QUOTES, 'UTF-8');
+                        $txt2D = htmlspecialchars($coupon['txt2D'] ?? '', ENT_QUOTES, 'UTF-8');
+                        $bigpromoD = htmlspecialchars($coupon['bigpromoD'] ?? '', ENT_QUOTES, 'UTF-8');
+                        $categorie = htmlspecialchars($coupon['categorie'] ?? '', ENT_QUOTES, 'UTF-8');
+                        ?>
+
+                <div class="cupon-container <?php echo $categorie; ?>" >
+                    <div class="cupon-ineercontainertxt img-bk" style="background-image: url('<?php echo $img; ?>');">
+                        <img src="<?php echo $logo; ?>" alt="" width="50%">
+
+                        <h3 class="description-txt"><?php echo $description; ?></h3>
                     </div>
-                    <div class="fixed-size1">
-                        <div class="text">
+                    <div class="cupon-ineercontainer info <?php echo $coupon['type']; ?>">
+                        <?php if ($coupon['type'] == 'single') { ?>
+                        <h3 class="bigpromo-txt"><?php echo $bigpromo; ?></h3>
+                        <h3 class="txt-txt"><?php echo $txt; ?></h3>
+                        <h3 class="txt-txt"><?php echo $txt2; ?></h3>
+                        <h3 class="disclaimer-txt"><?php echo $disclaimer; ?></h3>
+                        <?php } else if ($coupon['type'] == 'double') { ?>
+                        <h3 class="bigpromo-txt-double"><?php echo $bigpromo; ?></h3>
+                        <h3 class="txt-txt-double"><?php echo $txt; ?></h3>
+                        <h3 class="txt-txt-double"><?php echo $txt2; ?></h3>
 
-
-                            <!-- <h3>Cupón válido por </h3> -->
-                            <span class="span">15%</span>
-
-                            <h3 class="info">Descuento en toda la tienda</h3>
-                            <h4 class="important">*Aplica restricciones.</h4>
-
-                        </div>
-
+                        <h3 class="bigpromo-txt-double"><?php echo $bigpromoD; ?></h3>
+                        <h3 class="txt-txt-double"><?php echo $txtD; ?></h3>
+                        <h3 class="txt-txt-double"><?php echo $txt2D; ?></h3>
+                        <?php } ?>
                     </div>
-
 
 
                 </div>
 
-                                <!--Magic Steps-->
-                                <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/logoMagicSteps.png" alt="" width="55%"
-                                style="margin-top: -10%; margin-left: 17%;">
-                            
-                            <h4 style="margin-left: 35%; margin-top: -5%;">Parque infantil</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text" style="margin-top: 3%;">
+                <?php
+                    }
+                }
+                ?>
 
-                            <span class="double">2x1</span>
-                            <h3 class="doubletxt">Aplica solo para hijos</h3>
-                            <span class="double">10%</span>
-                            <h3 class="doubletxt">En celebraciones en paquete Basic</h3>
-
-
-                            <h4 class="important">*No aplica con otras promociones.</h4>
-
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-             
-
-                   <!--Dental Gabriela Castro-->
-                   <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/LogoDentalGabrielaCastro.png" alt="" width="55%"
-                                style="margin-top: 10%; margin-left: 17%;">
-                            <br><br>
-                            <h4 style="margin-left: 35%;">Consultorio Dental</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text" style="margin-top: 3%;">
-
-                            <span class="double">10%</span>
-                            <h3 class="doubletxt">Valoración dental, limpieza dental, ⁠valoración de Odontontopediaria, ⁠ferula dental bruxismo.</h3>
-                            <span class="double">20%</span>
-                            <h3 class="doubletxt">Blanqueamiento dental laser + Blanqueamiento dental en casa</h3>
-                           
-
-
-
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-
-                        <!--Dental Gabriela Castro-->
-                        <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/LogoDentalGabrielaCastro.png" alt="" width="55%"
-                                style="margin-top: 10%; margin-left: 17%;">
-                            <br><br>
-                            <h4 style="margin-left: 35%;">Consultorio Dental</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                    <div class="text" style="margin-top: 9%;">
-
-<span class="double">20%</span>
-<h3 class="doubletxt">Descuento para usuarios activos de Fit 506 en blanqueamiento premium</h3>
-
-
-
-<h4 class="important">*No aplica con otras promociones.</h4>
-
+        </div></div>
 </div>
-
-                    </div>
-
-
-
-                </div>
-
-
-                 <!--Vine por Vino-->
-                 <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/vineporvinoLogo.png" alt="" width="55%"
-                                style="margin-top: -8%; margin-left: 17%;">
-                            <br><br>
-                            <h4 style="margin-left: 15%;">Una nueva forma de conocer el mundo del vino.</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text">
-
-
-                            <!-- <h3>Cupón válido por </h3> -->
-                            <span class="span">10%</span>
-
-                            <h3 class="info">Descuento</h3>
-                            <h4 class="important">*No aplica en productos en descuento.</h4>
-
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-                
-                 <!--Pizza Republica-->
-                 <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/PR-logo.png" alt="" width="55%"
-                                style="margin-top: 0%; margin-left: 17%;">
-                            <br><br>
-                            <h4 style="margin-left: 15%;">Restaurante de comida italiana</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                        <div class="text">
-
-
-                            <!-- <h3>Cupón válido por </h3> -->
-                            <span class="span">10%</span>
-
-                            <h3 class="info">Descuento en todo el menú</h3>
-                            <h4 class="important">*No aplica en productos en descuento.</h4>
-
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-                  <!--CENTRO DE NUTRICION LARISSA PAEZ-->
-                  <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/CNPlogonuevo.png" alt="" width="35%"
-                                style="margin-top: 3%; margin-left: 30%;">
-                            <br><br>
-                            <h4>Consultas nutricionales y psicología.</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                    <div class="text" style="margin-top: 7%;">
-
-
-<!-- <h3>Cupón válido por </h3> -->
-<span class="span">30%</span>
-
-<h3 class="info">Descuento en Wellness Journal</h3>
-<h4 class="important">*Presentar este cupón. No aplica con otras promociones de Wellness Journal. Aplica únicamente en la sucursal de City Place.</h4>
-
-</div>
-
-                    </div>
-
-                </div>
-
-
-
-                 <!--Be Loved-->
-                 <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/BELOVED-logo.png" alt="" width="35%"
-                                style="margin-top: -2%; margin-left: 30%;">
-                            <br><br>
-                            <h4 style="margin-left: 35%;">Salón de Belleza</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                    <div class="text" style="margin-top: 7%;">
-
-
-<!-- <h3>Cupón válido por </h3> -->
-<span class="span">10%</span>
-
-<h3 class="info">Descuento en cualquier servicio</h3>
-<h4 class="important">*Presentar este cupón. No aplica con otras promociones.</h4>
-
-</div>
-
-                    </div>
-
-                </div>
-
-
-
-                   <!--Wild Side-->
-                   <div class="fixed-size-container">
-                    <div class="fixed-size2">
-                        <div class="text">
-                            <img src="images/cuponera/wildsideLogo.png" alt="" width="35%"
-                                style="margin-top: 0%; margin-left: 30%;">
-                            <br><br>
-                            <h4 style="margin-left: 40%;">Bistro Café.</h4>
-                            <!-- <p>Válido hasta el 30 septiembre,2022.No aplican con otras promociones. <br> Válido una única vez.No es reeembolsable en efectivo ni compra inferiores</p> -->
-                        </div>
-                    </div>
-                    <div class="fixed-size1">
-                    <div class="text" style="margin-top: 7%;">
-
-
-<!-- <h3>Cupón válido por </h3> -->
-<span class="span">10%</span>
-
-<h3 class="info">Descuento en menú</h3>
-<h4 class="important">*Presentar este cupón. No aplica con otras promociones.</h4>
-
-</div>
-
-                    </div>
-
-                </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-            </div>
 
 
 
@@ -1036,6 +199,33 @@
                     cookieBar.remove();
                 }
                 elAC.addEventListener('click', cookieAccept, false);
+            }
+
+            const categoryButtons = document.querySelectorAll('.categoria-titulo[data-category]');
+            const coupons = document.querySelectorAll('.cupon-container');
+
+            const applyFilter = (filter) => {
+                coupons.forEach((coupon) => {
+                    if (filter === 'ALL' || coupon.classList.contains(filter)) {
+                        coupon.style.display = '';
+                    } else {
+                        coupon.style.display = 'none';
+                    }
+                });
+            };
+
+            categoryButtons.forEach((button) => {
+                button.addEventListener('click', () => {
+                    categoryButtons.forEach((btn) => btn.classList.remove('active'));
+                    button.classList.add('active');
+                    applyFilter(button.dataset.category || 'ALL');
+                });
+            });
+
+            if (categoryButtons.length) {
+                const defaultButton = Array.from(categoryButtons).find((btn) => btn.dataset.category === 'ALL') || categoryButtons[0];
+                defaultButton.classList.add('active');
+                applyFilter(defaultButton.dataset.category || 'ALL');
             }
 
 
