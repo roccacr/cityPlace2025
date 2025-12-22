@@ -62,13 +62,13 @@
     "txt": "Consulta Individual",
     "txt2": "Nutrición o Psicología",
     "bigpromo": "15%",
-    "txtD": "Programas de 6 citas: Wellness, Básico de Nutrición,",
-    "txt2D": "Básico de Psicología",
-    "bigpromoD": "10%",
-    "type": "double",
+    "txtD": "",
+    "txt2D": "",
+    "bigpromoD": "",
+    "type": "single",
     "categorie": "SALUD",
-    "description": "",
-    "disclaimer": "Consultas nutricionales y psicología."
+    "description": "Consultas nutricionales y psicología.",
+    "disclaimer": ""
   },
   {
     "logo": "images/cuponesnuevos/logos/Cupones internos_tree house logo.svg",
