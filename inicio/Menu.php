@@ -165,7 +165,7 @@
         <li><a href="HiltonGardenInnSA.php" data-megamenu="#mm-hotel">Hotel <span><img src="images/menu/arrow-down.png" alt="VÍA GASTRONÓMICA" width="15px" style="margin-left: 5px; margin-top: -5px;"></span></a></li>
         <li><a href="arte&diseño.php" data-megamenu="#mm-arte">Arte&Moda <span> <img src="images/menu/arrow-down.png" alt="VÍA GASTRONÓMICA" width="15px" style="margin-left: 5px; margin-top: -5px;"></span></a></li>
         <li><a href="salud.php" data-megamenu="#mm-salud">Salud <span> <img src="images/menu/arrow-down.png" alt="VÍA GASTRONÓMICA" width="15px" style="margin-left: 5px; margin-top: -5px;"></span></a></li>
-        <li><a href="oficinas.php" data-megamenu="#mm-oficinas">Oficinas <span><img src="images/menu/arrow-down.png" alt="VÍA GASTRONÓMICA" width="15px" style="margin-left: 5px; margin-top: -5px;"></span></a></li>
+        <li><a href="https://oficina.cityplacecr.com/contacto/oficina" >Oficinas <span><img src="images/menu/arrow-down.png" alt="VÍA GASTRONÓMICA" width="15px" style="margin-left: 5px; margin-top: -5px;"></span></a></li>
 
 
       </ul>
@@ -451,7 +451,7 @@
       </div>
 
       <!--OFICINAS SECCION================================================== -->
-      <div class="site-mega__block" id="mm-oficinas">
+      <!-- <div class="site-mega__block" id="mm-oficinas">
         <div class="container">
           <div class="row margin-xs">
             <div class="row-height">
@@ -496,7 +496,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <!--PLANEA TU VISITA SECCION================================================== -->
       <div class="site-mega__block" id="mm-plan-your-visit">
         <div class="container">
