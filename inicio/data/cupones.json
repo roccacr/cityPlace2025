@@ -1,13 +1,13 @@
 [  {
-  "logo": "images/cuponesnuevos/logos/Cupones internos_yard logo.svg",
-  "img": "images/cuponesnuevos/fondos/Cupones internos_yard.webp",
-  "txt": "Descuento en refill de yardas",
-  "txt2": "al traer el envase",
-  "bigpromo": "30%",
+  "logo": "images/cuponesnuevos/logos/Cupones internos_Rewind logo.svg",
+  "img": "images/cuponesnuevos/fondos/Cupones internos_Rewind.webp",
+  "txt": "Descuento en menú regular",
+  "txt2": "",
+  "bigpromo": "15%",
   "type": "single",
   "categorie": "GASTONOMIA",
-  "description": "¡Cocktails to go!",
-  "disclaimer": "*No aplica con otras promociones o paquetes."
+  "description": "Restaurante-bar con hits 80s-90s-2000s",
+  "disclaimer": "*No aplica en menú de  almuerzos ejecutivos u otras promociones."
 },
 {
   "logo": "images/cuponesnuevos/logos/Cupones internos_Go fish logo.svg",
