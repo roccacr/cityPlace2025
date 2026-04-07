@@ -187,13 +187,13 @@
                   <li><a href="Ikua.php">Ikua</a></li>
                   <li><a href="Jugobar.php">Jugo bar</a></li>
                   <li><a href="TapHouse.php">Tap House</a></li>
-                  <li><a href="TheGlop.php">The Glop</a></li>
+                  <!-- <li><a href="TheGlop.php">The Glop</a></li> -->
                   <li><a href="TreeHouse.php">The Tree House</a></li>
-                  <li><a href="theyard.php">The Yard</a></li>
+                  <!-- <li><a href="theyard.php">The Yard</a></li> -->
                   <li><a href="gofish.php">Go Fish</a></li>
                   <li><a href="zaika.php">Zaika</a></li>
                   <li><a href="callejonmexicano.php">El Callejón Mexicano</a></li>
-                  <li><a href="creamrica.php">Creamrica</a></li>
+                  <!-- <li><a href="creamrica.php">Creamrica</a></li> -->
                   <!-- <li><a href="vineporvino.php">VINE por VINO</a></li>
                   <li><a href="shibuyamarket.php">Shibuya Market</a></li> -->
                   <li><a href="Starbucks.php">Starbucks</a></li>
@@ -208,9 +208,9 @@
                 <br><br>
                 <h5 class="gs text-uppercase" style="margin-bottom: 20px !important;">Nightlife</h5>
                 <ul>
-                  <li><a href="theyard.php">The Yard</a></li>
+                  <!-- <li><a href="theyard.php">The Yard</a></li> -->
                   <li><a href="TapHouse.php">Tap House</a></li>
-                  <li><a href="TheGlop.php">The Glop</a></li>
+                  <!-- <li><a href="TheGlop.php">The Glop</a></li> -->
                   <li><a href="TreeHouse.php">TheTree House</a></li>
                 </ul>
               </div>
@@ -261,6 +261,7 @@
                   <!-- <li><a href="TechStudio.php">Tech Studio</a></li> -->
                   <li><a href="sangreviva.php">Sangre Viva</a></li>
                   <!-- <li><a href="sensew.php">Sense Wellness</a></li> -->
+                  <li><a href="Medipiel.php">Medipiel</a></li>
 
                 </ul>
               </div>

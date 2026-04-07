@@ -34,11 +34,11 @@
                                         </li>
                                         <li>
                                             <span class="arrow"></span>
-                                            <a href="gastronomia.php">Restaurantes</a>
+                                            <a href="comercio.php">Comercio</a>
                                         </li>
                                         <li>
                                             <span class="arrow"></span>
-                                            The Yard
+                                            Medipiel
                                         </li>
                                     </ul>
 
@@ -57,7 +57,7 @@
                                     <div class="row">
                                         <div class="col-sm-22 col-sm-offset-1">
 
-                                            <img src="./images/Restaurantes/theyard/logoblanco.png" alt="Bvlgari" class="sg-mb-30px sg-hero-logo invert" style="min-height: auto;" />
+                                            <img src="./images/NUEVOS/medipiel/logo_blanco.png" alt="Bvlgari" class="sg-mb-30px sg-hero-logo invert" style="min-height: auto;" />
 
                                             <div class="solid-line hidden-xs sg-mb-20px"></div>
                                         </div>
@@ -66,7 +66,7 @@
                                     <div class="row hidden-xs" id="end_gold_twig">
                                         <div class="col-sm-10 col-sm-offset-1">
                                             <p class="text-white">
-                                            Viví una experiencia única e inolvidable con los mejores cócteles en yarda. Para llevar o disfrutar en el lugar.
+                                            Somos una cadena de tiendas especializadas en la venta y asesoría de productos para el cuidado de la piel y el cabello.
                                             </p>
                                         </div>
                                         <div class="col-sm-11 col-sm-offset-1">
@@ -80,7 +80,7 @@
                                                 <div class="col-sm-24 col-md-10">
                                                     <p class="text-white">
                                                         <span><img src="images/NUEVOS/phone.png" style="width: 20px;"></span>
-                                                        <a href="tel: +506 4035-3111" class="text-white plusicon_ar topLinkGold">+506 8322-5431</a>
+                                                        <a href="tel: +506 4035-3111" class="text-white plusicon_ar topLinkGold">+506 6420-6309</a>
                                                     </p>
                                                 </div>
 
@@ -90,7 +90,7 @@
                                                 <div class="col-sm-24 col-md-14">
                                                     <p class="text-white">
                                                         <span><img src="images/NUEVOS/email.png" style="width: 20px;"></span>
-                                                        <a href="mailto:store_uae_dubai-mall@bulgari.com" class="text-white topLinkGold">theyardlindora@gmail.com</a>
+                                                        <a href="mailto:store_uae_dubai-mall@bulgari.com" class="text-white topLinkGold">servicioalcliente@medipiel.cr</a>
                                                     </p>
                                                 </div>
 
@@ -107,15 +107,15 @@
                                         <div class="col-sm-22 col-sm-offset-1">
                                             <a href="tel:+506  4035-3111" class="btn btn-default-transparent text-uppercase visible-xs">
                                                 <span class="icon-phone"></span>
-                                                <span>+506 8322-5431</span>
+                                                <span>+506 6420-6309</span>
                                             </a>
                                             <a href="tel:+506 4035-3111" class="btn btn-default-transparent text-uppercase visible-xs">
                                                 <span class="icon-phone"></span>
-                                                <span>+506 8322-5431</span>
+                                                <span>+506 6420-6309</span>
                                             </a>
                                             <a href="mailto:store_uae_dubai-mall@bulgari.com" class="btn btn-default-transparent text-uppercase visible-xs">
                                                 <span class="icon-envelope"></span>
-                                                <span>theyardlindora@gmail.com</span>
+                                                <span>servicioalcliente@medipiel.cr</span>
                                             </a>
                                         </div>
                                     </div>
@@ -132,10 +132,10 @@
                             <div class="block-visuals">
 
                                 <figure class="block-cover-img">
-                                    <div class="bg-image lazyload visible-xs-block" data-bgset="./images/Restaurantes/theyard/banner.jpg" data-alt="The Yard"></div>
-                                    <div class="bg-image lazyload visible-sm-block" data-bgset="./images/Restaurantes/theyard/banner.jpg" data-alt="The Yard"></div>
-                                    <div class="bg-image lazyload visible-md-block" data-bgset="./images/Restaurantes/theyard/banner.jpg" data-alt="The Yard"></div>
-                                    <div class="bg-image lazyload visible-lg-block" data-bgset="./images/Restaurantes/theyard/banner.jpg" data-alt="The Yard"></div>
+                                    <div class="bg-image lazyload visible-xs-block" data-bgset="./images/NUEVOS/medipiel/banner.png" data-alt="Medipiel"></div>
+                                    <div class="bg-image lazyload visible-sm-block" data-bgset="./images/NUEVOS/medipiel/banner.png" data-alt="Medipiel"></div>
+                                    <div class="bg-image lazyload visible-md-block" data-bgset="./images/NUEVOS/medipiel/banner.png" data-alt="Medipiel"></div>
+                                    <div class="bg-image lazyload visible-lg-block" data-bgset="./images/NUEVOS/medipiel/banner.png" data-alt="Medipiel"></div>
                                 </figure>
                             </div>
                         </div>
@@ -156,21 +156,28 @@
                             <div class="block-content">
                                 <div class="display-table">
                                     <div class="display-table-cell col-middle text-center">
-                                        <h5 class="sg-mb-25px text-uppercase" style="font-size: 20px;">The Yard</h5>
+                                        <h5 class="sg-mb-25px text-uppercase" style="font-size: 20px;">Medipiel</h5>
 
-                                        <h2 class="sg-mb-20px">¡Cocktails to go!</h2>
+                                        <h2 class="sg-mb-20px">Evolucionamos porque cuidarte es amarte</h2>
 
                                         <div class="col-lg-12 col-lg-offset-6 col-md-18 col-md-offset-3 sg-mb-30px">
                                             <p class="clearfix">
-                                            Más de 40 opciones con y sin licor para todos los gustos. Además descuento de hasta 30% en refill de yardas al traer el envase. Un lugar para toda ocasión
+                                            En Medipiel queremos hacer parte de tu cotidianidad para que tu piel sea el reflejo de tu bienestar integral y del amor propio.
+                                          
                                             </p>
 
                                             <p><strong>Seguinos</strong></p>
                                             <p>
-                                                <a href="https://www.facebook.com/theyardcr" class="btn btn-primary-transparent btn-block text-uppercase plusicon_ar" style="border-color: #000;">Facebook</a>
+                                                <a href="https://www.facebook.com/medipiel.cr " class="btn btn-primary-transparent btn-block text-uppercase plusicon_ar" style="border-color: #000;">Facebook</a>
                                             </p>
                                             <p>
-                                                <a href="https://www.instagram.com/theyardcr/ " class="btn btn-primary-transparent btn-block text-uppercase plusicon_ar" style="border-color: #000;">Instagram</a>
+                                                <a href="https://www.instagram.com/medipiel.cr/  " class="btn btn-primary-transparent btn-block text-uppercase plusicon_ar" style="border-color: #000;">Instagram</a>
+                                            </p>
+                                            <p>
+                                                <a href="https://www.tiktok.com/@medipiel " class="btn btn-primary-transparent btn-block text-uppercase plusicon_ar" style="border-color: #000;">TikTok</a>
+                                            </p>
+                                            <p>
+                                                <a href="www.medipiel.cr " class="btn btn-primary-transparent btn-block text-uppercase plusicon_ar" style="border-color: #000;">Sitio Web</a>
                                             </p>
 
                                         </div>
@@ -186,19 +193,19 @@
 
                                 <div class="slick-slide">
                                     <figure class="block-cover-img">
-                                        <div data-bgset="./images/Restaurantes/theyard/1.jpg" class="bg-image lazyload" data-alt="The Yard"></div>
+                                        <div data-bgset="./images/NUEVOS/medipiel/medipiel.webp" class="bg-image lazyload" data-alt="Medipiel"></div>
                                     </figure>
                                 </div>
 
                                 <div class="slick-slide">
                                     <figure class="block-cover-img">
-                                        <div data-bgset="./images/Restaurantes/theyard/2.jpg" class="bg-image lazyload" data-alt="The Yard"></div>
+                                        <div data-bgset="./images/NUEVOS/medipiel/1.jpg" class="bg-image lazyload" data-alt="Medipiel"></div>
                                     </figure>
                                 </div>
 
                                 <div class="slick-slide">
                                     <figure class="block-cover-img">
-                                        <div data-bgset="./images/Restaurantes/theyard/3.jpg" class="bg-image lazyload" data-alt="The Yard"></div>
+                                        <div data-bgset="./images/NUEVOS/medipiel/2.jpg" class="bg-image lazyload" data-alt="Medipiel"></div>
                                     </figure>
                                 </div>
 

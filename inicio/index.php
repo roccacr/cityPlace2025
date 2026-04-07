@@ -208,7 +208,7 @@
               <figure class="block-cover-img">
                 <!--<div class="bg-image lazyload" id="bg-img-fashion-avenue"></div>-->
           
-                <div data-bgset="images/NUEVOS/theyardNew.jpg" class="bg-image lazyload">
+                <div data-bgset="images/NUEVOS/medipiel/nuevaapertura.webp" class="bg-image lazyload">
                 </div>
                 
               </figure>
@@ -223,37 +223,37 @@
                 <div class="display-table-cell col-middle text-center" style="position: relative;">
 
                   <h3 class="sg-mb-50px text-uppercase visible-xs hidden-sm visible-md visible-lg" style="position: absolute; top:5%; left: 0; right: 0;"> News</h3>
-                  <h5 class="sg-mb-50px text-uppercase visible-xs hidden-sm visible-md visible-lg" style="position: absolute; top: 15%; left: 0; right: 0;">VÍA GASTRONÓMICA</h5>
+                  <h5 class="sg-mb-50px text-uppercase visible-xs hidden-sm visible-md visible-lg" style="position: absolute; top: 15%; left: 0; right: 0;">COMERCIOS</h5>
                   <div class="hidden-xs visible-sm">
                     <br>
                     <h4 class="sg-mb-50px text-uppercase">News</h4>
                     <h5 class="sg-mb-50px text-uppercase">Food</h5>
                   </div>
                   <h2 class="sg-mb-30px text-uppercase block__push-in hidden-xs hidden-sm" style="font-weight: 400;">
-                    THE YARD
+                    MEDIPIEL
                   </h2>
                   <h3 class="sg-mb-30px text-uppercase block__push-in visible-sm" style="font-weight: 400;">
-                  THE YARD
+                  MEDIPIEL
                   </h3>
                   <h1 class="sg-mb-30px text-uppercase block__push-in visible-xs" style="font-weight: 400;">
-                  THE YARD
+                  MEDIPIEL
                   </h1>
 
 
                   <div class="col-lg-12 col-lg-offset-6 col-md-18 col-md-offset-3">
                     <p class="clearfix sg-mb-30px" style="font-size:18px">
-                    ¡Cocktails to go!
+                    Somos una cadena de tiendas especializadas en la venta y asesoría de productos para el cuidado de la piel y el cabello.
                     </p>
-                    <a href="theyard.php" class="btn btn-primary-transparent btn-primary-transparent--diap-sm text-uppercase hidden-xs visible-sm" style="color: #000; border-color: #000;">
+                    <a href="Medipiel.php" class="btn btn-primary-transparent btn-primary-transparent--diap-sm text-uppercase hidden-xs visible-sm" style="color: #000; border-color: #000;">
                       MÁS INFORMACIÓN
                     </a>
 
                   </div>
                   <div class="visible-xs hidden-sm visible-md visible-lg" style="position: absolute; bottom: 10%; left: 15px; right: 15px;">
-                    <a href="theyard.php" class="btn btn-primary-transparent btn-primary-transparent--diap-sm text-uppercase hidden-xs visible-md visible-lg" style="max-width: 50%; margin: auto;">
+                    <a href="Medipiel.php" class="btn btn-primary-transparent btn-primary-transparent--diap-sm text-uppercase hidden-xs visible-md visible-lg" style="max-width: 50%; margin: auto;">
                       MÁS INFORMACIÓN
                     </a>
-                    <a href="theyard.php" class="btn btn-primary-transparent btn-primary-transparent--diap-sm text-uppercase visible-xs hidden-sm" style="color: #FFF; border-color: #FFF;">
+                    <a href="Medipiel.php" class="btn btn-primary-transparent btn-primary-transparent--diap-sm text-uppercase visible-xs hidden-sm" style="color: #FFF; border-color: #FFF;">
                       MÁS INFORMACIÓN
                     </a>
                   </div>
@@ -339,13 +339,13 @@
               <div class="container-fluid md-reset-padding md-full-width">
                 <div class="row">
                   <div class="col-xs-22 col-xs-offset-1 md-pull-in-line">
-                    <h5 class="text-uppercase sg-mb-15px text-white hidden-lg spaced"><strong>Gastronomía</strong></h5>
-                    <h5 class="text-uppercase sg-mb-25px text-white visible-lg spaced"><strong>Gastronomía</strong></h5>
+                    <h5 class="text-uppercase sg-mb-15px text-white hidden-lg spaced"><strong>Comercio</strong></h5>
+                    <h5 class="text-uppercase sg-mb-25px text-white visible-lg spaced"><strong>Comercio</strong></h5>
                     <div class="visible-xs">
-                      <h1 class="sg-mb-10px text-white">The Yard</h1>
+                      <h1 class="sg-mb-10px text-white">Medipiel</h1>
                     </div>
                     <div class="hidden-xs">
-                      <h2 class="sg-mb-10px text-white">The Yard</h2>
+                      <h2 class="sg-mb-10px text-white">Medipiel</h2>
 
                     </div>
                     <div class="row">
@@ -354,11 +354,11 @@
 
                       </div>
                     </div>
-                    <a href="theyard.php" class=" btn btn-default-transparent btn-block-sm margin-right-xs-px text-uppercase">
+                    <a href="Medipiel.php" class=" btn btn-default-transparent btn-block-sm margin-right-xs-px text-uppercase">
                       MÁS INFORMACIÓN
                     </a>
-                    <a href="gastronomia.php" class="btn btn-default-transparent btn-block-sm text-uppercase">
-                      Ver Restaurantes
+                    <a href="comercio.php" class="btn btn-default-transparent btn-block-sm text-uppercase">
+                      Ver Comercios
                     </a>
                   </div>
                 </div>
@@ -369,7 +369,7 @@
             <div class="block-gradient"></div>
             <div class="block-visuals">
               <figure class="block-cover-img">
-                <div data-bgset="images/Restaurantes/theyard/externa.JPG" class="bg-image lazyload" data-alt="Via Gastronomica The Yard City Place"></div>
+                <div data-bgset="images/NUEVOS/medipiel/medipiel.webp" class="bg-image lazyload" data-alt="Via Gastronomica The Yard City Place"></div>
               </figure>
             </div>
           </div>

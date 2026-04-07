@@ -293,23 +293,24 @@
 
             <div class="block-container">
                 <div class="block-abs">
-                    <div class="block block-border-right col-md-12 col-sm-12 block-white" data-block>
+
+                <div class="block block-border-right col-md-12 col-sm-12 block-white" data-block>
                         <div class="block-bottom sg-mb-40px blockStayText">
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-sm-22 col-sm-offset-1 text-white">
                                         <div class="visible-xs">
-                                            <h1 class="sg-mb-10px">The Glop</h1>
+                                            <h1 class="sg-mb-10px">Go Fish</h1>
                                         </div>
                                         <div class="hidden-xs">
-                                            <h2 class="sg-mb-10px">The Glop</h2>
+                                            <h2 class="sg-mb-10px">Go Fish</h2>
                                             <p class="text-white sg-mb-20px hidden-xs">
 
 
-                                                La #ExperienciaGlop 🍸 es algo que tienes que vivir
+                                            ¡Más que más mariscos!
                                             </p>
                                         </div>
-                                        <a href="TheGlop.php"  class="stayExploreMoreCTA btn btn-default-transparent btn-block-sm text-uppercase margin-right-xs-px">
+                                        <a href="gofish.php"  class="stayExploreMoreCTA btn btn-default-transparent btn-block-sm text-uppercase margin-right-xs-px">
                                             MÁS INFORMACIÓN
 
                                         </a>
@@ -320,10 +321,14 @@
                         <div class="block-gradient"></div>
                         <div class="block-visuals">
                             <figure class="block-cover-img">
-                                <div data-bgset="https://demo.cityplacecr.com/images/Restaurantes/theGlop/4.jpg" class="bg-image lazyload" data-alt="The Glop City Place"></div>
+                                <div data-bgset="images/Restaurantes/gofish/externa.jpg" class="bg-image lazyload" data-alt="Cataleya City Place"></div>
                             </figure>
                         </div>
                     </div>
+
+
+
+
 
                     <div class="block block-border-left col-md-12 col-sm-12 block-white" data-block>
                         <div class="block-bottom sg-mb-40px blockStayText">
@@ -362,80 +367,6 @@
                 <div class="block-padding" data-block-height data-xs="2" data-sm="1" data-md="1" data-lg="1"></div>
             </div>
 
-            <div class="block-container">
-                <div class="block-abs" style="background-color: white;">
-                    <div class="block block-border-right col-md-12 col-sm-12 block-white" data-block>
-                        <div class="block-bottom sg-mb-40px blockStayText">
-                            <div class="container-fluid">
-                                <div class="row">
-                                    <div class="col-sm-22 col-sm-offset-1 text-white">
-                                        <div class="visible-xs">
-                                            <h1 class="sg-mb-10px">The Yard</h1>
-                                        </div>
-                                        <div class="hidden-xs">
-                                            <h2 class="sg-mb-10px">The Yard</h2>
-                                            <p class="text-white sg-mb-20px hidden-xs">
-
-
-                                            ¡Cocktails to go!
-                                            </p>
-                                        </div>
-                                        <a href="theyard.php"  class="stayExploreMoreCTA btn btn-default-transparent btn-block-sm text-uppercase margin-right-xs-px">
-                                            MÁS INFORMACIÓN
-
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="block-gradient"></div>
-                        <div class="block-visuals">
-                            <figure class="block-cover-img">
-                                <div data-bgset="images/Restaurantes/theyard/externa.JPG" class="bg-image lazyload" data-alt="Cataleya City Place"></div>
-                            </figure>
-                        </div>
-                    </div>
-
-                    <div class="block block-border-right col-md-12 col-sm-12 block-white" data-block>
-                        <div class="block-bottom sg-mb-40px blockStayText">
-                            <div class="container-fluid">
-                                <div class="row">
-                                    <div class="col-sm-22 col-sm-offset-1 text-white">
-                                        <div class="visible-xs">
-                                            <h1 class="sg-mb-10px">Go Fish</h1>
-                                        </div>
-                                        <div class="hidden-xs">
-                                            <h2 class="sg-mb-10px">Go Fish</h2>
-                                            <p class="text-white sg-mb-20px hidden-xs">
-
-
-                                            ¡Más que más mariscos!
-                                            </p>
-                                        </div>
-                                        <a href="gofish.php"  class="stayExploreMoreCTA btn btn-default-transparent btn-block-sm text-uppercase margin-right-xs-px">
-                                            MÁS INFORMACIÓN
-
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="block-gradient"></div>
-                        <div class="block-visuals">
-                            <figure class="block-cover-img">
-                                <div data-bgset="images/Restaurantes/gofish/externa.jpg" class="bg-image lazyload" data-alt="Cataleya City Place"></div>
-                            </figure>
-                        </div>
-                    </div>
-
-              
-
-                 
-
-                    
-                </div>
-                <div class="block-padding" data-block-height data-xs="2" data-sm="1" data-md="1" data-lg="1"></div>
-            </div>
 
 
             <div class="block-container">
@@ -515,37 +446,19 @@
 
             <div class="block-container">
                 <div class="block-abs" style="background-color: white;">
-                    <div class="block block-border-right col-md-12 col-sm-12 block-white" data-block>
-                        <div class="block-bottom sg-mb-40px blockStayText">
-                            <div class="container-fluid">
-                                <div class="row">
-                                    <div class="col-sm-22 col-sm-offset-1 text-white">
-                                        <div class="visible-xs">
-                                            <h1 class="sg-mb-10px">Creamrica</h1>
-                                        </div>
-                                        <div class="hidden-xs">
-                                            <h2 class="sg-mb-10px">Creamrica</h2>
-                                            <p class="text-white sg-mb-20px hidden-xs">
 
 
-                                            ¡Deliciosos helados artesanales!
-                                            </p>
-                                        </div>
-                                        <a href="creamrica.php"  class="stayExploreMoreCTA btn btn-default-transparent btn-block-sm text-uppercase margin-right-xs-px">
-                                            MÁS INFORMACIÓN
 
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="block-gradient"></div>
-                        <div class="block-visuals">
-                            <figure class="block-cover-img">
-                                <div data-bgset="images/Restaurantes/creamrica/externa.jpg" class="bg-image lazyload" data-alt="City Place"></div>
-                            </figure>
-                        </div>
-                    </div>
+
+
+
+
+
+
+
+
+
+
 
                     <div class="block block-border-right col-md-12 col-sm-12 block-white" data-block>
                         <div class="block-bottom sg-mb-40px blockStayText">
