@@ -1,4 +1,14 @@
 [  {
+  "logo": "images/cuponesnuevos/logos/Cupones internos_Medipiel logo.svg",
+  "img": "images/cuponesnuevos/fondos/Cupones internos_Medipiel.webp",
+  "txt": "Descuento en toda la tienda",
+  "txt2": "",
+  "bigpromo": "10%",
+  "type": "single",
+  "categorie": "COMERCIO",
+  "description": "Evolucionamos porque cuidarte es amarte",
+  "disclaimer": "*No acumulable con otras promociones."
+},{
   "logo": "images/cuponesnuevos/logos/Cupones internos_Rewind logo.svg",
   "img": "images/cuponesnuevos/fondos/Cupones internos_Rewind.webp",
   "txt": "Descuento en menú regular",
