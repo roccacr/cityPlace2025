@@ -1,4 +1,28 @@
-[  {
+[ {
+  "logo": "images/cuponesnuevos/logos/Cupones internos_Lof Joyería logo.svg",
+  "img": "images/cuponesnuevos/fondos/Cupones internos_Lof Joyería.webp",
+  "txt": "Descuento en toda la tienda",
+  "txt2": "",
+  "bigpromo": "20%",
+  "type": "single",
+  "categorie": "COMERCIO",
+  "description": "Joyería",
+    "disclaimer": "Aplican restricciones"
+  },  
+  {
+  "logo": "images/cuponesnuevos/logos/Cupones internos_gaia logo.svg",
+  "img": "images/cuponesnuevos/fondos/Cupones internos_gaia.webp",
+  "txt": "Descuento en",
+  "txt2": "mercaderia seleccionada",
+  "bigpromo": "50%",
+  "txtD": "",
+  "txt2D": "",
+  "bigpromoD": "",
+  "type": "single",
+  "categorie": "COMERCIO",
+  "description": "Design Collector",
+  "disclaimer": "*Aplica restricciones"
+},{
   "logo": "images/cuponesnuevos/logos/Cupones internos_Medipiel logo.svg",
   "img": "images/cuponesnuevos/fondos/Cupones internos_Medipiel.webp",
   "txt": "Descuento en toda la tienda",
@@ -57,10 +81,10 @@
     "img": "images/cuponesnuevos/fondos/Cupones internos_506 fit.webp",
     "txt": "Mensualidad",
     "txt2": "",
-    "bigpromo": "$60",
+    "bigpromo": "$75",
     "txtD": "Matrícula",
     "txt2D": "",
-    "bigpromoD": "50%",
+    "bigpromoD": "$40",
     "type": "double",
     "categorie": "SALUD",
     "description": "*No aplica con otras promociones.",
@@ -142,7 +166,7 @@
     "type": "single",
     "categorie": "COMERCIO",
     "description": "More than sustainable swimwear",
-    "disclaimer": ""
+    "disclaimer": "Aplican restricciones"
   },
   {
     "logo": "images/cuponesnuevos/logos/Cupones internos_gaia logo.svg",
