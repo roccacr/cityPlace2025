@@ -67,6 +67,7 @@
                     }
                 }
                 if (!empty($cupones)) {
+                    shuffle($cupones);
                     foreach ($cupones as $coupon) {
                         $logo = htmlspecialchars($coupon['logo'] ?? '', ENT_QUOTES, 'UTF-8');
                         $description = htmlspecialchars($coupon['description'] ?? '', ENT_QUOTES, 'UTF-8');
@@ -83,7 +84,11 @@
 
                 <div class="cupon-container <?php echo $categorie; ?>" >
                     <div class="cupon-ineercontainertxt img-bk" style="background-image: url('<?php echo $img; ?>');">
-                        <img src="<?php echo $logo; ?>" alt="" width="50%">
+                        <?php
+                        $logoWidth = (isset($coupon['name']) && ($coupon['name'] == 'bedoya' || $coupon['name'] == 'patas')) ? '25%' : '50%';
+                        ?>
+                        <img src="<?php echo $logo; ?>" alt="" style="width: <?php echo $logoWidth; ?>;">
+                   
 
                         <h3 class="description-txt"><?php echo $description; ?></h3>
                     </div>
@@ -101,6 +106,7 @@
                         <h3 class="bigpromo-txt-double"><?php echo $bigpromoD; ?></h3>
                         <h3 class="txt-txt-double"><?php echo $txtD; ?></h3>
                         <h3 class="txt-txt-double"><?php echo $txt2D; ?></h3>
+                        <h3 class="disclaimer-txt"><?php echo $disclaimer; ?></h3>
                         <?php } ?>
                     </div>
 

@@ -101,6 +101,7 @@
                         <h3 class="bigpromo-txt-double"><?php echo $bigpromoD; ?></h3>
                         <h3 class="txt-txt-double"><?php echo $txtD; ?></h3>
                         <h3 class="txt-txt-double"><?php echo $txt2D; ?></h3>
+                        <h3 class="disclaimer-txt"><?php echo $disclaimer; ?></h3>
                         <?php } ?>
                     </div>
 
