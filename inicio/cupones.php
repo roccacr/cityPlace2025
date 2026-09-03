@@ -85,7 +85,7 @@
                 <div class="cupon-container <?php echo $categorie; ?>" >
                     <div class="cupon-ineercontainertxt img-bk" style="background-image: url('<?php echo $img; ?>');">
                         <?php
-                        $logoWidth = (isset($coupon['name']) && ($coupon['name'] == 'bedoya' || $coupon['name'] == 'patas')) ? '25%' : '50%';
+                        $logoWidth = (isset($coupon['name']) && ($coupon['name'] == 'bedoya' || $coupon['name'] == 'patas')) ? '35%' : '50%';
                         ?>
                         <img src="<?php echo $logo; ?>" alt="" style="width: <?php echo $logoWidth; ?>;">
                    
